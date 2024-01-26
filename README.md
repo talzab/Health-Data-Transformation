@@ -46,3 +46,9 @@ python load_quality.py 2021-07-01 Hospital_General_Information-2021-07.csv
 ```
 
 ### Running the Pipeline 
+
+To run the automatic reporting pipeline, use the following command:
+```
+streamlit run Reporting.py
+```
+Then, copy and paste the localhost into your browser.
